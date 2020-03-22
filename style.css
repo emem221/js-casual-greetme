@@ -1,0 +1,13 @@
+body {
+    background-image: url("home.JPG");
+    background-color: #030118;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 150px;
+}
+
+b {
+    color: gold;
+    font-style: italic;
+    font-family: Didact Gothic;
+}
